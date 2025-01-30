@@ -23,7 +23,7 @@ Allows user to login using JWT authentication as it communicates to the server A
 ## Deployed Link
 
 Deployed Link: (https://kanban-board-48eg.onrender.com)
-![Deployed Link](screenshot.png)
+![Deployed Link](../screenshot.png)
 
 
 ## License
